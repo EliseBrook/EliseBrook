@@ -5,7 +5,9 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="www.linkedin.com/in/elise-brook-davis-hirst"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wv_OYa4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite"></a>
+  <a  href="https://linkedin.com/in/elise-brook-davis-hirst" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
 </p>
 
 <!-- About Me -->
