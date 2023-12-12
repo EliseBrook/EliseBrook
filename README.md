@@ -18,7 +18,7 @@ I'm currently diving deeper into Python. Exciting times!
 
 ## 📫 Get in Touch
 
-- LinkedIn: (https://www.linkedin.com/in/elise-brook-davis-hirst/)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/elise-brook-davis-hirst)
 
 ## 🚀 My Goal
 
