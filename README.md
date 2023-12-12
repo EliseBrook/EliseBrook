@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hello, I'm Elise!
 
-<!--
-**EliseBrook/EliseBrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent mathematics graduate passionate about problem-solving and aspiring to become a Software Engineer. 
 
-Here are some ideas to get you started:
+I see programming as a valuable tool across diverse applications and industries, driving me to apply these skills professionally and personally. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my corner of GitHub! 
+
+## 🔧 Skills
+
+
+-Self-taught in programming and foundational data structures.
+- Programming languages: Python, Java, HTML, CSS, and SQL.
+
+## 🌱 Currently Learning
+
+I'm currently diving deeper into Python. Exciting times!
+
+## 📫 Get in Touch
+
+- LinkedIn: (https://www.linkedin.com/in/elise-brook-davis-hirst/)
+
+## 🚀 My Goal
+
+My ultimate goal is to become a software engineer.
+
+Feel free to explore my repositories and connect with me! I'm always open to collaborations and new opportunities. 😊
+
 -->
