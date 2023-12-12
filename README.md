@@ -3,17 +3,22 @@
 <h1 align="center">👋 Hi there, I'm Elise!</h1>
 <p align="center">Aspiring Software Engineer | Mathematics Enthusiast | Problem Solver</p>
 
-<!-- Contact -->
-<p align="center">
-  <a  href="https://linkedin.com/in/elise-brook-davis-hirst" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-</p>
-
 <!-- About Me -->
 <p align="center">
   🎓 Recent Mathematics Graduate | 🌟 Passionate about Coding | 🚀 Always Learning
 </p>
+
+<!-- Current projects -->
+<div align="center">
+  <p>I am currently working on obtaining the Legacy Full Stack Certification from freeCodeCamp:</p>
+  
+  Responsive Web Design ![40%](https://progress-bar.dev/40) <br>
+  JavaScript Algorithms and Data Structures ![0%](https://progress-bar.dev/0) <br>
+  Front End Development Libraries ![0%](https://progress-bar.dev/0) <br>
+  Data Visualization ![0%](https://progress-bar.dev/0) <br>
+  Back End Development and APIs ![0%](https://progress-bar.dev/0) <br>
+  Legacy Information Security and Quality Assurance ![0%](https://progress-bar.dev/0) <br>
+</div>
 
 <!-- Skills -->
 <p align="center">
@@ -61,4 +66,11 @@
 <!-- Footer -->
 <p align="center">
   🌟 Feel free to explore my repositories and connect with me! 🌟
+</p>
+
+<!-- Contact -->
+<p align="center">
+  <a  href="https://linkedin.com/in/elise-brook-davis-hirst" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
 </p>
