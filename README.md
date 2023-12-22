@@ -13,11 +13,6 @@
   <p>I am currently working on obtaining the Legacy Full Stack Certification from freeCodeCamp:</p>
   
   Responsive Web Design ![40%](https://progress-bar.dev/40) <br>
-  JavaScript Algorithms and Data Structures ![0%](https://progress-bar.dev/0) <br>
-  Front End Development Libraries ![0%](https://progress-bar.dev/0) <br>
-  Data Visualization ![0%](https://progress-bar.dev/0) <br>
-  Back End Development and APIs ![0%](https://progress-bar.dev/0) <br>
-  Legacy Information Security and Quality Assurance ![0%](https://progress-bar.dev/0) <br>
 </div>
 
 <!-- Skills -->
@@ -29,6 +24,7 @@
 <!-- Education -->
 <p align="center">
   <strong>Education:</strong><br>
+  🎓 Master of Science in Computer Science, University of York, Ongoing<br>
   🎓 Bachelor of Science in Mathematics, University of York, July 2022<br>
   🖥️ Step into Tech - Introduction to Computer Science Course, University of York, July 2023
 </p>
