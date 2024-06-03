@@ -1,7 +1,7 @@
 
 <!-- Header -->
 <h1 align="center">👋 Hi there, I'm Elise!</h1>
-<p align="center">Aspiring Software Engineer | Mathematics Enthusiast | Problem Solver</p>
+<p align="center">Junior Software Engineer | Mathematics Enthusiast | Problem Solver</p>
 
 <!-- About Me -->
 <p align="center">
