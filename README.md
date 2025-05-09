@@ -1,19 +1,7 @@
 
 <!-- Header -->
-<h1 align="center">👋 Hi there, I'm Elise!</h1>
-<p align="center">Junior Software Engineer | Mathematics Enthusiast | Problem Solver</p>
-
-<!-- About Me -->
-<p align="center">
-  🎓 Recent Mathematics Graduate | 🌟 Passionate about Coding | 🚀 Always Learning
-</p>
-
-<!-- Current projects -->
-<div align="center">
-  <p>I am currently working on obtaining the Legacy Full Stack Certification from freeCodeCamp:</p>
-  
-  Responsive Web Design ![40%](https://progress-bar.dev/40) <br>
-</div>
+<h1 align="center"> Hi! I'm Elise!</h1>
+<p align="center">Software Engineer | Mathematics BSc</p>
 
 <!-- Skills -->
 <p align="center">
@@ -24,39 +12,40 @@
 <!-- Education -->
 <p align="center">
   <strong>Education:</strong><br>
-  🎓 Master of Science in Computer Science, University of York, Ongoing<br>
-  🎓 Bachelor of Science in Mathematics, University of York, July 2022<br>
-  🖥️ Step into Tech - Introduction to Computer Science Course, University of York, July 2023
+  Bachelor of Science in Mathematics, University of York, July 2022<br>
+  Step into Tech - Introduction to Computer Science Course, University of York, July 2023
 </p>
 
 <!-- Certificates -->
 <p align="center">
   <strong>Certificates:</strong><br>
-  📜 Intermediate Python for Non-Programmers - Linkedin Learning, August 2023<br>
-  📜 Python for Non-Programmers - Linkedin Learning, July 2023<br>
-  📜 SQL for Data Analysis - Linkedin Learning, July 2023<br>
-  📜 Google Sheets: Advanced Formulas and Functions - Linkedin Learning, January 2023
+  Intermediate Python for Non-Programmers - Linkedin Learning, August 2023<br>
+  Python for Non-Programmers - Linkedin Learning, July 2023<br>
+  SQL for Data Analysis - Linkedin Learning, July 2023<br>
+  Google Sheets: Advanced Formulas and Functions - Linkedin Learning, January 2023
 </p>
 
 <!-- Work Experience -->
 <p align="center">
   <strong>Work Experience:</strong><br>
-  💼 Student Services Administrator, University of York, Jan 2023 - Present<br>
-  💼 College Support Administrator, University of York, July 2022 - Dec 2022
+  Software Developer, University of York, April 2025 - Present<br>
+  Junior Software Developer, University of York, Feb 2024 - April 2025<br>
+  Student Services Administrator, University of York, Jan 2023 - Feb 2024<br>
+  College Support Administrator, University of York, July 2022 - Dec 2022
 </p>
 
 <!-- Projects -->
 <p align="center">
   <strong>Projects:</strong><br>
-  🛠️ Student Tracking System - University of York, June 2023 - Present<br>
-  🏟️ College Sports Project Associate - University of York, July 2022 - Dec 2022<br>
-  🌐 Foss Fairy Project - York, England, Sept 2022 - June 2023
+  Student Tracking System - University of York, June 2023 - Feb 2024<br>
+  College Sports Project Associate - University of York, July 2022 - Dec 2022<br>
+  Foss Fairy Project - York, England, Sept 2022 - June 2023
 </p>
 
 <!-- Interests -->
 <p align="center">
   <strong>Interests:</strong><br>
-  💻 Coding | 🚴 Cycling | 🎹 Piano | 📚 Reading | 🎵 Music
+  Coding | Cycling | Piano | Reading | Music
 </p>
 
 <!-- Footer -->
